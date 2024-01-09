@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Inf3rn00
 - 👀 I’m interested in sports and arts
-- 🌱 I’m currently learning javascript but have very little experience
+- 🌱 I’m currently learning html, css, and javascript but have very little experience
 - 💞️ I’m looking to collaborate on projects in the fututre but for now i want to learn 
 
 <!---
