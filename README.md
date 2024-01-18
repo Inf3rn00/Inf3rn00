@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Joshua Dodo
 - 👀 I’m interested in sports and arts
-- 🌱 I’m currently learning html, css, and javascript but have very little experience.
+- 🌱 I’m currently learning html, css, and javascript with some level of experience.
 - 💞️ I’m still a student but i'm willing to collaborate on projects in the fututre.
 
 <!---
