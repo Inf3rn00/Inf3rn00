@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Inf3rn00
+- 👋 Hi, I’m Joshua Dodo
 - 👀 I’m interested in sports and arts
-- 🌱 I’m currently learning html, css, and javascript but have very little experience
-- 💞️ I’m looking to collaborate on projects in the fututre but for now i want to learn 
+- 🌱 I’m currently learning html, css, and javascript but have very little experience.
+- 💞️ I’m still a student but i'm willing to collaborate on projects in the fututre.
 
 <!---
 Inf3rn00/Inf3rn00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
