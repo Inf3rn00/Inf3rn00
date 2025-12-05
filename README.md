@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://i.imgur.com/your-custom-banner.png" alt="A cool graphic representing frontend development and self-improvement" width="100%"/>
-</div>
+
 
 # Hey there, I'm Joshua Dodo 
 
