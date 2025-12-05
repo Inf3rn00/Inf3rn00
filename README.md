@@ -1,9 +1,31 @@
-👋 Hi, I’m Joshua Dodo, a front-end developer passionate about building intuitive and interactive web experiences.
+<div align="center">
+  <img src="https://i.imgur.com/your-custom-banner.png" alt="A cool graphic representing frontend development and self-improvement" width="100%"/>
+</div>
 
-👀 I have a keen interest in technology, which helps in blending creativity with problem-solving to craft engaging UIs.
+# Hey there, I'm Joshua Dodo 
 
-🌱 I’m deepening my expertise in JavaScript and React, constantly exploring new ways to enhance user experiences.
+### Frontend Engineer | Developer Growth Enthusiast
 
-💡 As a student in Computer Science, I’m always learning, and I look forward to collaborating on exciting projects in the future.
+I'm a Computer Science graduate dedicated to mastering the modern frontend stack. I believe in writing **clean, optimized code** and leveraging tools like **AI** to build better, faster.
 
+---
 
+### My Core Focus & Tech Stack
+
+| Area | Focus | Key Technologies |
+| :--- | :--- | :--- |
+| **Frontend Mastery** | Building intuitive, responsive, and data-driven user interfaces. | **React** (Deepening Expertise), **TypeScript**, **Tailwind CSS**, JavaScript (ES6+), HTML5, CSS3. |
+| **Developer Growth** | Learning roadmaps for consistent self-improvement. | **GitHub** (Clean Git practices, automation), **AI Coding** (Leveraging LLMs for efficiency), **Productivity.** |
+
+---
+
+### 🌐 Let's Connect
+
+| Platform | Handle |
+| :--- | :--- |
+| **Twitter/X** (Quick Tips & Thoughts) | **[@\_whoiselisha\_]** |
+| **LinkedIn** (Professional Updates & Networking) | **[in/joshuadodo]** |
+
+Feel free to open an issue on any of my repositories if you find a bug or have a suggestion!
+
+###### [A developer who stops learning stops growing. Let's keep building.]
