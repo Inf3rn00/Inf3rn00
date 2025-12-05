@@ -1,6 +1,6 @@
 
 
-# Hey there, I'm Joshua Dodo 
+# Hey there, I'm Joshua Dodo (Inf3rn00)
 
 ### Frontend Engineer | Developer Growth Enthusiast
 
