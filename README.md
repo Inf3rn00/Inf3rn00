@@ -1,29 +1,43 @@
+# Hi, I'm Joshua Dodo (Inf3rn00)
 
+### Frontend Developer & Aspiring Fullstack Engineer
 
-# Hey there, I'm Joshua Dodo (Inf3rn00)
+**Building Intelligent Web Products | AI Agents & Automation | SEO Optimization**
 
-### Frontend Engineer | Developer Growth Enthusiast
-
-I'm a Computer Science graduate dedicated to mastering the modern frontend stack. I believe in writing **clean, optimized code** and leveraging tools like **AI** to build better, faster.
-
----
-
-### My Core Focus & Tech Stack
-
-| Area | Focus | Key Technologies |
-| :--- | :--- | :--- |
-| **Frontend Mastery** | Building intuitive, responsive, and data-driven user interfaces. | **React** (Deepening Expertise), **TypeScript**, **Tailwind CSS**, JavaScript (ES6+), HTML5, CSS3. |
-| **Developer Growth** | Learning roadmaps for consistent self-improvement. | **GitHub** (Clean Git practices, automation), **AI Coding** (Leveraging LLMs for efficiency), **Productivity.** |
+I am a product-focused **Frontend Developer** transitioning into **Fullstack Engineering**. I specialise in building high-performance, **SEO-optimised web applications** that merge clean code with business logic. My passion lies in engineering solution-oriented architectures, integrating **AI Agents**, and building **workflow automations** that enhance user experience and operational efficiency.
 
 ---
 
-### 🌐 Let's Connect
+### Technical Expertise & Product Focus
 
-| Platform | Handle |
-| :--- | :--- |
-| **Twitter/X** (Quick Tips & Thoughts) | **[@\_whoiselisha\_]** |
-| **LinkedIn** (Professional Updates & Networking) | **[in/joshuadodo]** |
+My stack is built for speed, scalability, and discoverability. I focus on **Product Engineering**—solving real problems through technology.
 
-Feel free to open an issue on any of my repositories if you find a bug or have a suggestion!
+| Domain | Focus Areas | Technologies & Tools |
+| --- | --- | --- |
+| **Frontend Architecture** | Responsive UI/UX, Component Systems, State Management. | **React**, **Next.js** (SSR/ISR), **TypeScript**, **Tailwind CSS**, JavaScript (ES6+). |
+| **AI & Automation** | Building AI Agents, LLM Integration, Workflow Automation. | **OpenAI API**, **LangChain**, Automation Scripts, Python (Learning). |
+| **SEO & Performance** | Technical SEO, Core Web Vitals, AEO (Answer Engine Optimisation). | **Semantic HTML5**, **Schema.org Structured Data**, Lighthouse, Analytics. |
+| **Backend & DevOps** | API Integration, Server-side logic, Version Control. | **Node.js** (Aspiring), **Git/GitHub** (CI/CD Automations), Cloud Deployment. |
 
-###### [A developer who stops learning stops growing. Let's keep building.]
+---
+
+### Engineering Philosophy
+
+* **Product-Led Development:** I don't just write code; I build products. I focus on the end-user journey, ensuring applications are intuitive and solve the core problem.
+* **AI-First Mindset:** Leveraging **Artificial Intelligence** to optimise development workflows and create smart, adaptive user interfaces.
+* **Discoverability:** implementing **Technical SEO** and **GEO (Generative Engine Optimisation)** strategies to ensure products are found by both humans and AI search engines.
+
+---
+
+### Connect & Collaborate
+
+I am open to collaborations on **AI-driven web platforms** and **Fullstack projects**.
+
+| Platform | Handle | Context |
+| --- | --- | --- |
+| **Twitter/X** | **[@_whoiselisha_]** | Insights on Frontend Tech, AI Trends & SEO. |
+| **LinkedIn** | **[in/joshuadodo]** | Professional Portfolio & Engineering Network. |
+
+*Found a bug or have a feature request? Feel free to open an issue on my repositories.*
+
+###### [Engineering the future of the web with AI and optimised code.]
