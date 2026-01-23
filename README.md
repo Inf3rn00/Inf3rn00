@@ -10,7 +10,7 @@ I am a product-focused **Frontend Developer** transitioning into **Fullstack Eng
 
 ### Technical Expertise & Product Focus
 
-My stack is built for speed, scalability, and discoverability. I focus on **Product Engineering**—solving real problems through technology.
+My stack is built for speed, scalability, and discoverability. I focus on **Product Engineering** solving real problems through technology.
 
 | Domain | Focus Areas | Technologies & Tools |
 | --- | --- | --- |
